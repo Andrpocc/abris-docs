@@ -11,3 +11,4 @@
 ## Содержание
 1. [Быстрый старт с **ABRIS BOT**](docs/quick_start_bot.md)
 2. [Система кодирования](docs/coding.md)
+3. [Классификатор системы кодирования](files/classifier.pdf)
